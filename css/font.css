@@ -1,0 +1,20 @@
+@font-face {
+    font-family:"bold";
+    src: url(../font/Signika-Bold.ttf);
+}
+@font-face {
+    font-family:"light";
+    src: url(../font/Signika-Light.ttf);
+}
+@font-face {
+    font-family:"medium";
+    src: url(../font/Signika-Medium.ttf);
+}
+@font-face {
+    font-family:"Regular";
+    src: url(../font/Signika-Regular.ttf);
+}
+@font-face {
+    font-family:"SemiBold";
+    src: url(../font/Signika-SemiBold.ttf);
+}
